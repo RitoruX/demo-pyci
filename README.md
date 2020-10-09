@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/your_acctid/demo-pyci.svg?branch=master)](https://travis-ci.com/your_acctid/demo-pyci)
+[![Build Status](https://travis-ci.com/RitoruX/demo-pyci.svg?branch=master)](https://travis-ci.com/RitoruX/demo-pyci)
 
 Continuous Integration Demo
 ============================
