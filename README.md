@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.com/RitoruX/demo-pyci.svg?branch=master)](https://travis-ci.com/RitoruX/demo-pyci)
+[![codecov](https://codecov.io/gh/RitoruX/demo-pyci/branch/master/graph/badge.svg)](https://codecov.io/gh/RitoruX/demo-pyci)
 
 Continuous Integration Demo
 ============================
